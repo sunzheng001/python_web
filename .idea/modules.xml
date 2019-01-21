@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/POS.iml" filepath="$PROJECT_DIR$/.idea/POS.iml" />
+      <module fileurl="file://E:/ZBL_TEST/.idea/ZBL_TEST.iml" filepath="E:/ZBL_TEST/.idea/ZBL_TEST.iml" />
+      <module fileurl="file://E:/python10_WEB自动化框架/.idea/python10_WEB自动化框架.iml" filepath="E:/python10_WEB自动化框架/.idea/python10_WEB自动化框架.iml" />
+    </modules>
+  </component>
+</project>
